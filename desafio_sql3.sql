@@ -1,5 +1,3 @@
-\c pokemones
-
 DROP DATABASE blog;
 --  Creando y accesando a la base de datos blog
 CREATE DATABASE blog;
